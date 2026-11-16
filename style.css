@@ -30,8 +30,7 @@
 .navbar a {
   font-size: 1rem;
   font-weight: 400;
-  color: white;
-  background-color: #484747;
+  color: #484747;
   align-items: center;
   margin: 0 20px;
   justify-content: space-between;
@@ -252,6 +251,14 @@ a {
   padding: 5%;
   color: #484747;
 }
+
+.home-bio p {
+   font-size: 1rem;
+  margin: 30px;
+  width: 80%;
+  text-align: justify;
+    line-height: 1.5;
+
 
 .about {
   display: flex;
