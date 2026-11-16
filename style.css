@@ -259,9 +259,21 @@ a {
   text-align: justify;
     line-height: 1.5;
 
-
-.about {
-  display: flex;
+}
+.about {  
+  display: block;
+  width: 100%;
+  min-height: 100%;
+  background-color: #fff;
+  align-items: center;
+  padding:  0;
+  margin: 0;
   }
 
-}}
+  .about-content {
+max-width: 100%;
+display: block;
+align-items: center;
+}
+
+}
